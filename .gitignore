@@ -1,0 +1,9 @@
+# Exécutables compilés
+/red
+/red.exe
+src/game
+src/src
+*.exe
+
+# Fichiers ajoutés par Windows
+*:Zone.Identifier
